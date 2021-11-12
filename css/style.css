@@ -543,10 +543,6 @@ body::-webkit-scrollbar {
 
 /* tablet responsive */
 @media (min-width: 768px) {
-	.hulu-header {
-		height: 50vh;
-	}
-
 	.hulu-bundle-section {
 		flex-direction: column;
 		height: inherit;
