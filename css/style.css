@@ -24,7 +24,7 @@ body::-webkit-scrollbar {
 .hulu-header {
 	height: 80vh;
 	padding: 2rem;
-	background-image: url(/img/header.jpg);
+	background-image: url(/hulu_progate_itats_bootcamp_2021/img/header.jpg);
 }
 
 .hulu-header .hulu-header-login-button-container {
